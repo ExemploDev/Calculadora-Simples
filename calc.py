@@ -28,3 +28,6 @@ while True:
         break
     else:
          print('ERRO!!! Operacao Invalida')
+
+# segue no twitter lá, ta na bio :)
+# Uma Simples Calculadora, para usarem, logo trarei uma mais avançada e tals, com gui
